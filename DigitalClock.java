@@ -1,7 +1,7 @@
 package com.mycompany.digitalclock;
 
 import javax.swing.*; //javax swing imports all the classes available in swing package
-import java.time.LocalTime;// Gets your regoins local time
+import java.time.LocalTime;// Gets your regions local time
 import java.time.format.DateTimeFormatter; // self explanitory
 
 /**
